@@ -1,7 +1,7 @@
-![](https://github.com/pandit0305/pandit0305/blob/main/Pandit%20Gangahdar123456%20(1).jpg)
+![](https://github.com/pandit0305/pandit0305/blob/main/Pandit%20Gangadhar.jpg)
 <h1 align="center">Hi 👋, I'm Pandit Gangadhar</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-<img align = "right" alt ="coding" width="400" height="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align = "right" alt ="coding" width="350" height="280" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandit0305&label=Profile%20views&color=0e75b6&style=flat" alt="pandit0305" /> </p>
 
 - 🌱 I’m currently learning **Redux**
