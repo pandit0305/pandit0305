@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/pandit0305/pandit0305/blob/main/Pandit%20Gangahdar123456%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Pandit Gangadhar</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align = "right" alt ="coding" width="400" height="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
