@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **panditgangadhar.may3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10Db0v_vdu4E31DSXdLIp-UGN2vkXcD6S/view?usp=sharing](https://drive.google.com/file/d/10Db0v_vdu4E31DSXdLIp-UGN2vkXcD6S/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vzK7oPvQh9p2MdIso9_nBwTDN0ZTLrsj/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny😊**
 
