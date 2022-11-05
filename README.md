@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 📝 I regularly write articles on [http://www.itstudyfree.blogspot.com/](http://www.itstudyfree.blogspot.com/)
+- 📝 I regularly write articles on <a target= "_blank" href ="http://www.itstudyfree.blogspot.com/">My Blog</a>
 
 - 📫 How to reach me **panditgangadhar.may3@gmail.com**
 
