@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **panditgangadhar.may3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vzK7oPvQh9p2MdIso9_nBwTDN0ZTLrsj/view?usp=sharing)
+- 📄 Know about my experiences <a target = "_blank" href = "https://drive.google.com/file/d/1vzK7oPvQh9p2MdIso9_nBwTDN0ZTLrsj/view?usp=sharing">My Resume</a>
 
 - ⚡ Fun fact **I am funny😊**
 
