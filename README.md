@@ -1,4 +1,4 @@
-![](https://github.com/pandit0305/pandit0305/blob/main/Pandit%20Gangadhar.jpg)
+![](https://github.com/pandit0305/pandit0305/blob/main/Pandit%20Gangadhar.png)
 <h1 align="center">Hi 👋, I'm Pandit Gangadhar</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+Mern+Developer;Always+Learning+New+Things' alt="Typing SVG"/>
