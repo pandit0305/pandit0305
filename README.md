@@ -5,8 +5,6 @@
 <img align = "right" alt ="coding" width="350" height="280" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandit0305&label=Profile%20views&color=0e75b6&style=flat" alt="pandit0305" /> </p>
 
-- 🌱 I’m currently learning **Redux**
-
 - 📝 I regularly write articles on <a target= "_blank" href ="http://www.itstudyfree.blogspot.com/">My Blog</a>
 
 - 📫 How to reach me **panditgangadhar.may3@gmail.com**
