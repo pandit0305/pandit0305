@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <p>Inspiring full stack web developer, having problem-solving ability and proficiency in MERN Stack. A quick learner and always curious to learn new things.</p>
 <img src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+Mern+Developer;Always+Learning+New+Things' alt="Typing SVG"/>
-<img align = "right" alt ="coding" width="350" height="280" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align = "right" alt ="coding" width="400" height="280" src="https://camo.githubusercontent.com/40ba6383b913ec8fecd4f071feb0c7ef62ba298e168d0e0da23c493cff357a6f/68747470733a2f2f65647561757261617075626c69632e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f7765626173736574732f696d616765732f626c6f67732f686f772d746f2d6265636f6d652d612d70726f6772616d6d65722d696e2d696e6469612e6a7067">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandit0305&label=Profile%20views&color=0e75b6&style=flat" alt="pandit0305" /> </p>
 
 - 📝 I regularly write articles on <a target= "_blank" href ="http://www.itstudyfree.blogspot.com/">My Blog</a>
