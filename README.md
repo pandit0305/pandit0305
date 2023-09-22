@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **panditgangadhar.may3@gmail.com**
 
-- 📄 Know about my experiences <a target = "_blank" href = "https://drive.google.com/file/d/1vzK7oPvQh9p2MdIso9_nBwTDN0ZTLrsj/view?usp=sharing">My Resume</a>
+- 📄 Know about my experiences <a target = "_blank" href = "https://drive.google.com/file/d/1CjHOQtkjuDVJvwKJzh2rsfvI4VXKBVju/view?usp=drive_link">My Resume</a>
 
 - 📝 My Portfolio <a target= "_blank" href ="https://pandit0305.github.io">My PortFolio</a>
 
